@@ -12,7 +12,7 @@ The conversion script depends on:
 - [vtacer](https://github.com/visioncortex/vtracer)
 - [svg2tikz](https://github.com/xyz2tex/svg2tikz)
 
-and a LaTeX compiler to generate the [webversion]().
+and a LaTeX compiler to generate the [webversion](https://augustunderground.github.io/conference-logos/).
 
 ## Conferences
 
